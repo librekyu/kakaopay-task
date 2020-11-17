@@ -1,0 +1,23 @@
+{
+  "name": "kakaopay-task",
+  "version": "1.0.0",
+  "description": "task for kakaopay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/librekyu/kakaopay-task.git"
+  },
+  "author": "hgkim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/librekyu/kakaopay-task/issues"
+  },
+  "homepage": "https://github.com/librekyu/kakaopay-task#readme",
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
